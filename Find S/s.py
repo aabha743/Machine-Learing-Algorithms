@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
  
 #to read the data in the csv file
-data = pd.read_csv(r"C:\Users\aabha\OneDrive\Desktop\Machine Learning\Find S\data.csv")
+data = pd.read_csv(r"data.csv")
 print(data,"n")
  
 #making an array of all the attributes
